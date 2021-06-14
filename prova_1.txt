@@ -1,1 +1,3 @@
-document PROVA exercici GIT 14 juny 2021
+document PROVA exercici GIT 14 juny 2021
+
+canvi afegit al MAIN ---
